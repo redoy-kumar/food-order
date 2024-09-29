@@ -1,0 +1,4 @@
+http://localhost/food-order/admin/login.php
+
+Username: admin
+password: admin
